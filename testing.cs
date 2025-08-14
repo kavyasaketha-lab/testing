@@ -1,4 +1,5 @@
 class test
 {
-    int i,j,k;
+    int i;
+    string str;
 }
